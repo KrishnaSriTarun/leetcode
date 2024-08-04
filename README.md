@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
 ## Math
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
