@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1827-invalid-tweets](https://github.com/KrishnaSriTarun/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KrishnaSriTarun/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
