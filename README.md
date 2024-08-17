@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaSriTarun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +60,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
