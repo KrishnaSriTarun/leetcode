@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KrishnaSriTarun/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/KrishnaSriTarun/leetcode/tree/master/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
