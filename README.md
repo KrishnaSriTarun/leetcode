@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/KrishnaSriTarun/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Database
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/KrishnaSriTarun/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/KrishnaSriTarun/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
