@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaSriTarun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/KrishnaSriTarun/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KrishnaSriTarun/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0932-monotonic-array) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/KrishnaSriTarun/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/KrishnaSriTarun/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Recursion
