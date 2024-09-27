@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/KrishnaSriTarun/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaSriTarun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KrishnaSriTarun/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KrishnaSriTarun/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaSriTarun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -127,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KrishnaSriTarun/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
