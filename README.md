@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/KrishnaSriTarun/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KrishnaSriTarun/leetcode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/KrishnaSriTarun/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/KrishnaSriTarun/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KrishnaSriTarun/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/KrishnaSriTarun/leetcode/tree/master/1894-merge-strings-alternately) |
