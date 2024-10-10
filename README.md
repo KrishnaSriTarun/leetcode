@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -150,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
