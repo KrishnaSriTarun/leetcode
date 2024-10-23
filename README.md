@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2350-find-closest-number-to-zero](https://github.com/KrishnaSriTarun/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KrishnaSriTarun/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -38,11 +39,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/KrishnaSriTarun/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/KrishnaSriTarun/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KrishnaSriTarun/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Database
 |  |
