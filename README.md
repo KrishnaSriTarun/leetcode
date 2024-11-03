@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/KrishnaSriTarun/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/KrishnaSriTarun/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/KrishnaSriTarun/leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KrishnaSriTarun/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/KrishnaSriTarun/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -226,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0948-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
