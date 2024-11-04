@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/KrishnaSriTarun/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KrishnaSriTarun/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KrishnaSriTarun/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/KrishnaSriTarun/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/KrishnaSriTarun/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KrishnaSriTarun/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/KrishnaSriTarun/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/KrishnaSriTarun/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0908-middle-of-the-linked-list) |
