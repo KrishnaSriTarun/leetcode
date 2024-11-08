@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KrishnaSriTarun/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaSriTarun/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/KrishnaSriTarun/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaSriTarun/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0136-single-number) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/KrishnaSriTarun/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KrishnaSriTarun/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KrishnaSriTarun/leetcode/tree/master/0141-linked-list-cycle) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KrishnaSriTarun/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
