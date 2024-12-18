@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/KrishnaSriTarun/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0948-sort-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishnaSriTarun/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KrishnaSriTarun/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/KrishnaSriTarun/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishnaSriTarun/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishnaSriTarun/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
