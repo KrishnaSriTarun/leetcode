@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/KrishnaSriTarun/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/2058-concatenation-of-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/KrishnaSriTarun/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KrishnaSriTarun/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KrishnaSriTarun/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KrishnaSriTarun/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KrishnaSriTarun/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0169-majority-element) |
+| [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
