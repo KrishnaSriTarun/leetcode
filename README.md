@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/KrishnaSriTarun/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
+| [2556-convert-the-temperature](https://github.com/KrishnaSriTarun/leetcode/tree/master/2556-convert-the-temperature) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
