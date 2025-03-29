@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/KrishnaSriTarun/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KrishnaSriTarun/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/KrishnaSriTarun/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/KrishnaSriTarun/leetcode/tree/master/2556-convert-the-temperature) |
