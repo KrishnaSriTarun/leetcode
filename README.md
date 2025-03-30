@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KrishnaSriTarun/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/KrishnaSriTarun/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/KrishnaSriTarun/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/KrishnaSriTarun/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaSriTarun/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/KrishnaSriTarun/leetcode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
