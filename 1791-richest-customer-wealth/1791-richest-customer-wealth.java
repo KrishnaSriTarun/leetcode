@@ -6,9 +6,7 @@ class Solution {
             for(int j=0;j<a.length;j++){
                 k+=a[j];
             }
-            if(ans<k){
-                ans=k;
-            }
+            ans=Math.max(ans,k);
         }
         return ans;
     }
