@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/KrishnaSriTarun/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/2058-concatenation-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KrishnaSriTarun/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KrishnaSriTarun/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KrishnaSriTarun/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaSriTarun/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0948-sort-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KrishnaSriTarun/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KrishnaSriTarun/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaSriTarun/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KrishnaSriTarun/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KrishnaSriTarun/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
