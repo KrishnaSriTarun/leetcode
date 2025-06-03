@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KrishnaSriTarun/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KrishnaSriTarun/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaSriTarun/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KrishnaSriTarun/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/KrishnaSriTarun/leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0948-sort-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KrishnaSriTarun/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaSriTarun/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KrishnaSriTarun/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaSriTarun/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/KrishnaSriTarun/leetcode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaSriTarun/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaSriTarun/leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
 | ------- |
