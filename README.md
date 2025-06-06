@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaSriTarun/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0932-monotonic-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0948-sort-an-array) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaSriTarun/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishnaSriTarun/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaSriTarun/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KrishnaSriTarun/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KrishnaSriTarun/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
