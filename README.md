@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/KrishnaSriTarun/leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrishnaSriTarun/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/KrishnaSriTarun/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/KrishnaSriTarun/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KrishnaSriTarun/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaSriTarun/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/KrishnaSriTarun/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/KrishnaSriTarun/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KrishnaSriTarun/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaSriTarun/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/KrishnaSriTarun/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
