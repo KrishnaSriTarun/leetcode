@@ -7,7 +7,8 @@ class Solution {
         for(int j=0;j<s.length();j++){
             char ch=s.charAt(j);
             while(hs.contains(ch)){
-                hs.remove(s.charAt(i++));
+                hs.remove(s.charAt(i));
+                i++;
             }
             hs.add(ch);
             ans=Math.max(ans,j-i+1);
