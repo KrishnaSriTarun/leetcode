@@ -8,6 +8,7 @@ class Solution {
                     val++;
                 }
                 else{
+                    ans=Math.max(ans,val);
                     val=0;
                 }
                 ans=Math.max(ans,val);
