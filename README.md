@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/KrishnaSriTarun/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KrishnaSriTarun/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/KrishnaSriTarun/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KrishnaSriTarun/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaSriTarun/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
