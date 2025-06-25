@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishnaSriTarun/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1755-defuse-the-bomb](https://github.com/KrishnaSriTarun/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/KrishnaSriTarun/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/KrishnaSriTarun/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/KrishnaSriTarun/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/KrishnaSriTarun/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KrishnaSriTarun/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KrishnaSriTarun/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1755-defuse-the-bomb](https://github.com/KrishnaSriTarun/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KrishnaSriTarun/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KrishnaSriTarun/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KrishnaSriTarun/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
