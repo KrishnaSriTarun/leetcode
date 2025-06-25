@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KrishnaSriTarun/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KrishnaSriTarun/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KrishnaSriTarun/leetcode/tree/master/0283-move-zeroes) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaSriTarun/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KrishnaSriTarun/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KrishnaSriTarun/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaSriTarun/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/KrishnaSriTarun/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KrishnaSriTarun/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/KrishnaSriTarun/leetcode/tree/master/0561-array-partition) |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KrishnaSriTarun/leetcode/tree/master/0229-majority-element-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KrishnaSriTarun/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
