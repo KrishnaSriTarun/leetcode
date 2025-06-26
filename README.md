@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaSriTarun/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KrishnaSriTarun/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/KrishnaSriTarun/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KrishnaSriTarun/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KrishnaSriTarun/leetcode/tree/master/0066-plus-one) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KrishnaSriTarun/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KrishnaSriTarun/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
