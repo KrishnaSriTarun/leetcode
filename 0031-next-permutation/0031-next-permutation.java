@@ -10,9 +10,7 @@ class Solution {
         if (index != -1) {
             for(int i=nums.length-1;i>index;i--){
                 if(nums[index]<nums[i]){
-                    int temp=nums[index];
-                    nums[index]=nums[i];
-                    nums[i]=temp;
+                    swap(nums,index,i);
                     break;
                 }
             }
@@ -21,11 +19,14 @@ class Solution {
     }
     private void reverse(int[] nums,int start,int end){
         while(start<end){
-            int temp=nums[start];
-            nums[start]=nums[end];
-            nums[end]=temp;
+            swap(nums,start,end);
             start++;
             end--;
         }
+    }
+    private void swap(int[] nums,int a,int b){
+        int temp=nums[a];
+        nums[a]=nums[b];
+        nums[b]=temp;
     }
 }
