@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/KrishnaSriTarun/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/KrishnaSriTarun/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KrishnaSriTarun/leetcode/tree/master/0048-rotate-image) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KrishnaSriTarun/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/KrishnaSriTarun/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KrishnaSriTarun/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KrishnaSriTarun/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/0088-merge-sorted-array) |
