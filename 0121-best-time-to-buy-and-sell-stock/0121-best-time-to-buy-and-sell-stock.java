@@ -1,17 +1,15 @@
-import java.util.*;
 class Solution {
-    public int maxProfit(int prices[]) {
-        int buyStock=Integer.MAX_VALUE;
-        int maxProfit=0;
-        for(int i=0;i<prices.length;i++){
-            if(buyStock<prices[i]){
-                int profit=prices[i]-buyStock;
-                maxProfit=Math.max(maxProfit,profit);
+    public int maxProfit(int[] p) {
+        int ans=0;
+        int price=p[0];
+        for(int i=0;i<p.length;i++){
+            if(p[i]<price){
+                price=p[i];
             }
             else{
-                buyStock=prices[i];
+                ans=Math.max(ans,p[i]-price);
             }
         }
-        return maxProfit;
+        return ans;
     }
 }
