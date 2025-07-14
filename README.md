@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/KrishnaSriTarun/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KrishnaSriTarun/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/KrishnaSriTarun/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/KrishnaSriTarun/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/KrishnaSriTarun/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaSriTarun/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KrishnaSriTarun/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KrishnaSriTarun/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/KrishnaSriTarun/leetcode/tree/master/0443-string-compression) |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/KrishnaSriTarun/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaSriTarun/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/KrishnaSriTarun/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/KrishnaSriTarun/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KrishnaSriTarun/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KrishnaSriTarun/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KrishnaSriTarun/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1610-xor-operation-in-an-array](https://github.com/KrishnaSriTarun/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KrishnaSriTarun/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrishnaSriTarun/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
