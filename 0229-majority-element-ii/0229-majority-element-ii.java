@@ -22,8 +22,6 @@ class Solution {
                 count2--;
             }
         }
-
-        // Recount to confirm majority
         count1 = 0;
         count2 = 0;
         for (int num : nums) {
