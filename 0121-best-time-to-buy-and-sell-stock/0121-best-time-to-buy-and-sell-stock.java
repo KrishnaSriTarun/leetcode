@@ -6,9 +6,7 @@ class Solution {
             if(p[i]<price){
                 price=p[i];
             }
-            else{
-                ans=Math.max(ans,p[i]-price);
-            }
+            ans=Math.max(ans,p[i]-price);
         }
         return ans;
     }
