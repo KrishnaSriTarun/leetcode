@@ -13,17 +13,16 @@ class Solution {
         ListNode temp=head;
         int size=0;
         while(temp!=null){
-            size++;
             temp=temp.next;
+            size++;
         }
-        if (size == n) {
+        if (n == size) {
             return head.next;
         }
-        temp=head;
-        for(int i=1;i<size-n;i++){
-            temp=temp.next;
-        }
-        temp.next=temp.next.next;
+        ListNode curr=head;
+        int k=size-n;
+        for (int i = 0; i < k - 1; i++) curr = curr.next;
+        curr.next=curr.next.next;
         return head;
     }
 }
